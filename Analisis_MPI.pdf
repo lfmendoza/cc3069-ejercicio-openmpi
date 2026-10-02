@@ -100,21 +100,21 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/lfmendoza/cc3069-ejercicio-openmpi)
->> /Border [ 0 0 0 ] /Rect [ 54 663 334.9131 675 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 54 641.75 334.9131 655.75 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://docs.open-mpi.org/en/v5.0.9/man-openmpi/man3/MPI_Gather.3.html)
->> /Border [ 0 0 0 ] /Rect [ 54 398.68 152.4423 409 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 54 575.68 152.4423 586 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://docs.open-mpi.org/en/v5.0.x/man-openmpi/man3/MPI_Reduce.3.html)
->> /Border [ 0 0 0 ] /Rect [ 54 387.18 155.0542 397.5 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 54 564.18 155.0542 574.5 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
@@ -441,7 +441,7 @@ endobj
 endobj
 29 0 obj
 <<
-/Author (Fernando Mendoza) /CreationDate (D:20261002192030-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261002192030-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Fernando Mendoza) /CreationDate (D:20261002193946-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261002193946-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (Recolecci\363n de datos con Open MPI) /Trapped /False
 >>
 endobj
@@ -487,10 +487,10 @@ Gat=(9i'Ou&A@P9Qm6H^n4/XaH7Xa`Q`;R`6SFJe"[c`(4$g6g^11eY/_^o<.T5WcnXJ_9AqgB'LZZ)2
 endobj
 36 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1376
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 715
 >>
 stream
-Gat=*?#SIU'Re<2\1[ri/YPVTT7(KR0.l+"=lO;60OUP&`b$?M$;%'cJ,RZXCtB.0TdpQH6QtnY4QkMC84rB7mCP!-hCWI2M^4_=ns8?5$u*8Fq=6paj68OoO;K=t/5>Yk%lkuO5/A#FXYQCZegsJD8:OBJb!foObV`-K0!]"MUOSFpdeqC8D7+MN,ns#nXXR?.r(,!m>5lHb#=V.XWL1dQID,:J@,q4-Ic$56BnfRF=jfJq-C`A\X-]M$Ne2k^D!PArg:P#Fg+qE?$E$li:ZTd&nYX`8K`f9NnN&uWcc1C3_ZNlkaujE9hg2u@%k^[r$8Qs^T'4#Q`o/A7a1AKYD/&Z@(s@rV&[Io^Ztqn]ESKb-PKrZ`aT<a;bA9k.!)G,fD5^`O=+prk.`*BJC):].hR6rJD>_b^hR"i%VN=.o-Y!dWbU2Q[$(<-7l'*WeDIT]bS&&KLj/,rcmE._7>FI$c?dq>V%aOmA_mugB<S"VQr)35kOJOMHGp8DFcDLC,q'?p@3-\FOD$]REBYp]7HDtd_r5>oqX@8iP<::V#q8u1Xom6W2rMR1SF8iR/:Vq3K9,gKIW9G2+\@%SOlkeb$AF7o^=&.+)`$='K0`Y372VeiS%CW"Zjn>"nZ=Vk^G/1#QMVbF7mTN+J1mC)X^k_,ATA",AG6InjRfW/B<E$kk*;t#d8:)L78c\\)'me=(;T3>?/*5;sL5Tb9@`YlCFOMgY=fbTTE56T0Po!kMKR/TF%`PC8T]o"k%Ru[rB8VqJ477KSd4(!4/*%Yh#M9/<@7b<DTm;T'6'*X!D+=O(GQi-r$JO5qo"Nge\LL[9?2?tT7X8fa)f]^^o^(R=CH9/sj;PC<73>MR5"7iik.\);C\/S"MEY<o7'4Xj$UG.85cTj(=/!kle$^"7c1J\.4989DK?5#$Q(s&8RRaI9"4r>_I+bCfN3GcK;^pGKkec%r%A+(:jj&'?#@`m$<CP@Y^Ei4@jjf2lBN:b>3s.D/:(\+A44!2j>kNXXa1W.`573<#)U):>])q2MA$lEqV1JeiKmms?qo5k8$50WsXUSR";TX*6-K/V43h_2!?QDogQ/A:%=C0(^[j,@M5m46C_iQrG93'P<[p+I%J?m7h/aL8mh]o6^(rKuWM1.FZG@298SMuuVc>UbANk)r/KF_'(&1GSbmdJ9Hh:uGaL@Z<hNa-!!1cK2H`A_#cU9St"lSnh9pqCb>9t,=)*PZQ9AeWSCh-'O>qL!2M#Boiu1s;NG2&*n5?h<bFi@&42$b$?]?F#1>Do_;FZ>boNU<U'G6;o!6C;8#=DS^sco1#3q\+-Ft(cS>L.Bd#cFL2Q.I,!Ji*t.90rpQ\@)ro\DHO]seM/.a;Dk;5>-iX4_I.m(~>endstream
+Gat=(gQ'`:'R]@NSB#ZL)s?(+KAEhk`!WFeSrf'"S@5S`3&jY:Hp,MaPI@,R!_#^24#:q?1FWQi0&GDq$1Kj*q)])ALMR&TA0GJ*@$s_k&>ue*!"6JJiVW8C#EQ];-NrBUQ7rJg-S(%kJ)ru]8/<b"*7Of^^l'#ueakaOpLp@c8jhN&K=+]]Xpr*qC_,2lVftEF74DG[cbE0p?N@i:#$_Fj+4.!#c0Nr`L\2cNnccs%7j13kGC1prTYX5Md6N]q(p(-MQfELklUiU4`+)EuKbEjUND<*RDNr\+XDgea)`+K/o._hgSo*KD0um%*Gs'2O%j%!aC=aSN70up!Kl0-m\Pib#:(EH8MK6,TYG!'ln=]?g(,r:1V/ib=n.W%2fK7(KnXV"-KocS7!!ht7nOHk5.=,r#/!XqUZ:<1od\8&@ms_fuEdk-VD]YL:XN]@r@DUr:(ule&8IR0.6/kDail$c'oN#4H3OlE(DXQZYXg5Q^c(luT`MUR'f>#7/8ltN8&E-=7=I$94SW*S]D2*Y&Yt+>`r`>m]_E)#K=i])dpKn^%5)"H0qP<k;iZ5&G!4?I?.T'RU[F#[J*OZS@mF8uVGYqrT%pHF&O<%fZ)qpr?;!FFWYTakc9H0uJjZ9chTZ$\31"S]HeHdNnl;AEHXZD:#Y(J^Xm>,3IOTL*s:[_`Smb](>h4a(pK*VEIZ,4/=J,V1<j>X'oBZC~>endstream
 endobj
 xref
 0 37
@@ -507,34 +507,34 @@ xref
 0000163416 00000 n 
 0000207180 00000 n 
 0000207488 00000 n 
-0000207678 00000 n 
-0000207888 00000 n 
-0000208100 00000 n 
-0000208329 00000 n 
-0000209102 00000 n 
-0000228422 00000 n 
-0000228681 00000 n 
-0000230013 00000 n 
-0000230779 00000 n 
-0000249184 00000 n 
-0000249454 00000 n 
-0000250808 00000 n 
-0000251559 00000 n 
-0000267671 00000 n 
-0000267933 00000 n 
-0000269302 00000 n 
-0000269372 00000 n 
-0000269679 00000 n 
-0000269771 00000 n 
-0000271704 00000 n 
-0000273570 00000 n 
-0000275617 00000 n 
-0000276437 00000 n 
-0000277395 00000 n 
+0000207684 00000 n 
+0000207894 00000 n 
+0000208106 00000 n 
+0000208335 00000 n 
+0000209108 00000 n 
+0000228428 00000 n 
+0000228687 00000 n 
+0000230019 00000 n 
+0000230785 00000 n 
+0000249190 00000 n 
+0000249460 00000 n 
+0000250814 00000 n 
+0000251565 00000 n 
+0000267677 00000 n 
+0000267939 00000 n 
+0000269308 00000 n 
+0000269378 00000 n 
+0000269685 00000 n 
+0000269777 00000 n 
+0000271710 00000 n 
+0000273576 00000 n 
+0000275623 00000 n 
+0000276443 00000 n 
+0000277401 00000 n 
 trailer
 <<
 /ID 
-[<def34ea1c25d0676bdce0ecbe9b176e6><def34ea1c25d0676bdce0ecbe9b176e6>]
+[<f62f17bffaab06d19a4b328a4a44ca4e><f62f17bffaab06d19a4b328a4a44ca4e>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 29 0 R
@@ -542,5 +542,5 @@ trailer
 /Size 37
 >>
 startxref
-278863
+278207
 %%EOF
