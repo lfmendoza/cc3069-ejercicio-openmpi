@@ -1,0 +1,26 @@
++ mpirun --version
+mpirun (Open MPI) 4.1.6
+
+Report bugs to http://www.open-mpi.org/community/help/
++ mpicc -std=c11 -Wall -Wextra -Wpedantic -Werror Ejercicio1a.c -o bin/Ejercicio1a
++ mpicc -std=c11 -Wall -Wextra -Wpedantic -Werror Ejercicio1b.c -o bin/Ejercicio1b
++ mpirun --oversubscribe -np 4 ./bin/Ejercicio1a
+Proceso 1: temperaturas registradas = 26.1 C, 26.4 C
+Proceso 2: temperaturas registradas = 23.8 C, 24.1 C
+Proceso 3: temperaturas registradas = 27.0 C, 27.3 C
+Proceso 0: temperaturas registradas = 24.5 C, 25.0 C
+
+Oficina Central: temperaturas recibidas
+Proceso 0: 24.5 C, 25.0 C
+Proceso 1: 26.1 C, 26.4 C
+Proceso 2: 23.8 C, 24.1 C
+Proceso 3: 27.0 C, 27.3 C
++ mpirun --oversubscribe -np 4 ./bin/Ejercicio1b
+Proceso 2: consumo = 180 kWh
+Proceso 3: consumo = 100 kWh
+Proceso 0: consumo = 150 kWh
+
+Consumo total: 550 kWh
+Consumo maximo: 180 kWh
+Consumo minimo: 100 kWh
+Proceso 1: consumo = 120 kWh
